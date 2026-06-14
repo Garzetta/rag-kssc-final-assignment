@@ -1,7 +1,7 @@
 # rag-kssc-final-assignment
 Final project for Kapita Selekta Sistem Cerdas: analysis of saturation and citation hallucination in Retrieval-Augmented Generation (RAG) on the Indonesian IDK-MRC dataset, across Top-K = 1, 3, 5, 10.
 
-# Group members:
+# Group members
 - La Tania Nur Tenka (23/511404/PA/21787)*
 - Raden Rara Garzetta Aleyda Harimurti (23/511422/PA/21793)*
 - Leilani Fitria Salimah Hadiwibowo (23/511451/PA/21798)*
@@ -37,7 +37,7 @@ hallucination rate on unanswerable questions.
 ## How to run
 Open a notebook in Google Colab → Runtime → T4 GPU → Run all.
 
-## Team
+## Work Division
 - La Tania Nur Tenka (23/511404/PA/21787): Retrieval (Recall@K)
 - Rr. Garzetta Aleyda Harimurti (23/511422/PA/21793): Generation & citation (Citation Accuracy)
 - Leilani Fitria Salimah Hadiwibowo: Evaluation (Answer Quality + Hallucination)
